@@ -1,27 +1,6 @@
-> # `Hi there 👋`
->
-> ![image](https://github.com/imvickykumar/.github/assets/50515418/1c4865c1-f48c-469e-a387-05c23124e034)
+# `Chatbot Custom Branding`
 
-<br>
-
-- ## `Spamming` [`Server`](https://github.com/antonkomarev/github-profile-views-counter#usage)
-
-If you want to see big numbers in your profile, deploy a standalone solution to draw any views count you want
-without spamming our server. Everybody knows that any counters could be faked.
-
-<br>
-
-> A billion fake profile views doesn't make you a very popular person, it makes you a person with a billion numbers on the counter.
->
->![image](https://github.com/imvickykumar999/GitHub-Views-Counter-Hacks/assets/50515418/759a8a74-a485-442a-a6f7-107c024f4100)
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![mcd](https://github.com/user-attachments/assets/e2616f54-0696-49db-aeba-84dd740e9b39)
+![dominos](https://github.com/user-attachments/assets/0086a897-6b65-465a-a146-fe02cdce6dc9)
+![minecraft](https://github.com/user-attachments/assets/98298421-363b-43f4-864b-e9d6c4b5608c)
+![admin](https://github.com/user-attachments/assets/725f8037-ea33-4e16-b6b2-2d77fa9a74f0)
